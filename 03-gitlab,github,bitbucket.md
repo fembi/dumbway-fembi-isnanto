@@ -1,0 +1,3 @@
+### Kita sering mengenal platform yang bernama **GitLab, Github dan Bitbucket**,  ketiga *platform* tersebut memiliki keunggulan masing-masing yang mendukung pekerjaan seorang DevOps, menurut pendapat kamu dari ketiga *platform* tersebut berikan alasan kenapa harus memilih 1 di antara yang lain?
+
+Memilih github karena github yang paling banyak digunakan dari ketiganya, hanya gitlab yang opensource, meskipun ketiganya mendukung proyek open source. Github menawarkan repositori public gratis, bitbucket juga menawarkan repositori pribadi gratis, gitlab menawarkan ediisi koomunitas yang sepenuhnya gratis.

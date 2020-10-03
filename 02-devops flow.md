@@ -3,6 +3,7 @@
 ![devopsalur](https://raw.githubusercontent.com/fembi/dumbway-fembi-isnanto/main/gambar/devops%20alur.jpg)
 
 Operation= deploy, operate,monitoring,release
+
 Devlop= plan, code,building,tester
 
 ![pipeline devops](https://raw.githubusercontent.com/fembi/dumbway-fembi-isnanto/main/gambar/pipeline.jpg)

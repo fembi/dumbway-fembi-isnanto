@@ -1,5 +1,7 @@
 ### CI/CD (_Continuous Integration/Continuous Development_) merupakan hal yang sering ditemui oleh seorang DevOps. Menurut pendapatmu mengapa CI/CD diperlukan, dan berikan gambaran diagram kerjanya (Workflow) ?!
 
+![ci/cd workflow](https://raw.githubusercontent.com/fembi/dumbway-fembi-isnanto/main/gambar/ci%20cd%20workflow.JPG)
+
 dalam pengembangan product bermodelkan git flow, akan tiba saatnya melakukan aktivitas merge Dalam melakukan merge tersebut, terkadang akan menimbulkan konflik — konflik yang tidak diinginkan. karena terjadinya perbedaan branch yang sedang dikerjakan dengan branch master.
 
 Hal ini tentu akan menghabiskan waktu untuk menyelesaikan merge conflict. Karena banyaknya merge conflict ini sangat berbanding lurus dengan seberapa besar perbedaan branch satu dan yang lainnya. Dan besar perbedaan branch juga sangat terpengaruh oleh seberapa lama umur dari branch tersebut.

@@ -1,4 +1,4 @@
-# dumbway-fembi-isnanto
+# dumbways-fembi-isnanto
 
 sistem operasi yang digunakan windows 10 dan ubuntu server. \
 sumber artikel yang digunakan

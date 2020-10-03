@@ -1,6 +1,6 @@
 # dumbway-fembi-isnanto
 
-sistem operasi yang digunakan windows 10 dan ubuntu server.
+sistem operasi yang digunakan windows 10 dan ubuntu server. \
 sumber artikel yang digunakan
 
 https://devcenter.heroku.com/articles/heroku-postgresql-credentials \

@@ -1,0 +1,3 @@
+###  Lae seorang DevOps di sebuah perusahaan terkecil di Tanjung Balai, Lae diberi tugas untuk mengambil sebuah file menggunakan FTP oleh atasannya, menurut pendapatmu mengapa Lae harus menggunakan *tools* tersebut ?
+
+Karena ftp mendukung multi file transfer dan folder, bisa tetap melanjutkan transfer jika koneksi terputus, jika file lebih dari satu masuk kedalam antrian untuk diunggah / diunduh, beberapa tool ftp juga suport time schedule transfer, tidak ada batasan minimum transfer file, dan hampis semua host mendukung ftp. ftp berjalan pada port 21 mode not secure, sedangkan dalam mode aman sftp.
